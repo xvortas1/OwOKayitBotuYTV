@@ -16,7 +16,7 @@
 ## 🚀 Kurulum
 
 1. Depoyu indirin veya satın aldığınız dosyaları klasöre çıkartın.
-2. Eğer bilgisayarınızda Python[Git](https://www.python.org/downloads/) yüklü değilse indirin
+2. Eğer bilgisayarınızda [Python](https://www.python.org/downloads/) yüklü değilse indirin
 2. `kurulum.bat` dosyasını çalıştırarak bağımlılıkları yükleyin.
 3. `config.json` dosyasını düzenleyin:
    ```json
