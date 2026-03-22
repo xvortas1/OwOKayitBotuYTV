@@ -1,0 +1,16 @@
+----------------------------------------------------------
+YTV MAGAZA OWO KAYIT BOTU - KULLANIM KLAVUZU
+----------------------------------------------------------
+
+Hızlı Kurulum Adımları:
+
+1. Eğer bilgisayarınızda Python yüklü değilse indirin: https://www.python.org/downloads/
+2. "kurulum.bat" dosyasını çalıştırın ve bitmesini bekleyin.
+3. "config.json" dosyasını Not Defteri ile açın:
+    - KANAL_ID kısmına OwO'nun olduğu kanal ID'sini yazın.
+    - LISANS_ANAHTARI kısmına size verdiğimiz anahtarı yazın (veya program açılınca girin).
+4. "tokens.txt" içine her satıra bir adet gelecek şekilde Discord tokenlerinizi yazın.
+5. "main.py" dosyasını çalıştırın.
+
+Destek Hattı: Discord - ytvmagaza
+İyi kullanımlar dileriz!
